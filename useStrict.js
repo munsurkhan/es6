@@ -1,6 +1,6 @@
 "use strict";
-main();
-function main() {
+useStrict();
+function useStrict() {
      name = "Munsur Rahman";
 }
 
