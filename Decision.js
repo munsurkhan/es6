@@ -3,7 +3,7 @@ var billGates = {
     color: "blue",
     quality: "Good",
     price: "200USD",
-    similing: "Yes",
+    smailing: "Yes",
     chosma: "Yes",
     teeth: "White,Big"
 }
