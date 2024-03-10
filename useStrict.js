@@ -1,6 +1,6 @@
 "use strict";
 useStrict();
 function useStrict() {
-     name = "Munsur Rahman";
+     let name = "Munsur Rahman";
 }
 
