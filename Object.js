@@ -1,4 +1,4 @@
-var billGatesPro = {
+let billGatesPro = {
     shirt:{
         color: "offWhite",
         quality: "Good",
@@ -17,7 +17,7 @@ var billGatesPro = {
     }
 }
 
-var billGates = {
+let billGates = {
     color: "offWhite",
     quality: "Good",
     price: "200USD",
@@ -27,5 +27,5 @@ var billGates = {
 }
 
 for (let props in billGates){
-    console.log(props+"= "+billGates[props])
+    console.log(props+"= "+billGates[props]);
 }
